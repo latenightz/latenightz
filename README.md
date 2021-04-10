@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and pizza
 - 🌱 I’m currently learning how to program in Python
 - 💞️ I’m looking to collaborate on a text-based game I'm working on
-- 📫 How to reach me: E-Mail me at thefray@secmail.pro
+- 📫 How to reach me: E-Mail me at freescrub@protonmail.com
 
 <!---
 latenightz/latenightz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
